@@ -104,11 +104,6 @@ streamlit run streamlit_ui/main.py (In another terminal)
 
 ---
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
 
 ## Acknowledgments
 
