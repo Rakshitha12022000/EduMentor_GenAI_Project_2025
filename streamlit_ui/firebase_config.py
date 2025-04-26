@@ -1,4 +1,5 @@
 # firebase_config.py
+import os
 firebaseConfig = {
     "apiKey": os.getenv("FIREBASE_API_KEY"),
     "authDomain": "gen-ai-9ea31.firebaseapp.com",
