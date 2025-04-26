@@ -92,7 +92,7 @@ streamlit run streamlit_ui/main.py (In another terminal)
 
 | Chat Assistant | Adaptive Quiz | Learning Path |
 |:---:|:---:|:---:|
-| ![chat](![image](https://github.com/user-attachments/assets/c32b2930-e184-4505-aefb-aca180f3f8b3)
+| ![chat](https://github.com/user-attachments/assets/c32b2930-e184-4505-aefb-aca180f3f8b3)
 ) | ![quiz](screenshots/adaptive_quiz.png) | ![path](screenshots/learning_path.png) |
 
 ---
