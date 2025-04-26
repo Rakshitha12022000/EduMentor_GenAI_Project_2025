@@ -59,10 +59,22 @@ FIREBASE_API_KEY=your_google_api_key
 ```
 
 5. **Create a `serviceAccountKey.json` file**
-
+   
 After creating the key, add the json file to the firebase folder and replace the serviceAccountKey.json.gpg file with your json file.
 
-6. **Run the Application**
+6. ** 🔧 Note for Running Locally (Windows/Mac users) **
+
+When making API requests to the backend in Mac, replace `localhost` with `127.0.0.1` in the URL inside `main.py`:
+
+```python
+# main.py (line inside Adaptive Quiz page)
+response = requests.post(
+    "http://127.0.0.1:5000/api/generate-quiz",
+    json={"topics": selected_topics, "difficulty": random.choice(["Easy", "Medium", "Hard"]), "num_questions": 10}
+)
+```
+
+7. **Run the Application**
 ```bash
 python run.py
 streamlit run streamlit_ui/main.py (In another terminal)
