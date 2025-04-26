@@ -1,7 +1,7 @@
 import os
 # firebase_config.py
 firebaseConfig = {
-    "apiKey": os.gettenv("FIREBASE_API_KEY"),
+    "apiKey": os.getenv("FIREBASE_API_KEY"),
     "authDomain": "edumentor-77688.firebaseapp.com",
     "projectId": "edumentor-77688",
     "storageBucket": "edumentor-77688.firebasestorage.app",
