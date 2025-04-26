@@ -135,6 +135,7 @@ streamlit run streamlit_ui/main.py (In another terminal)
 - [Streamlit](https://streamlit.io/)
 - [SerpAPI](https://serpapi.com/)
 - [PyVis](https://pyvis.readthedocs.io/en/latest/)
+- [Google Firebase Console](https://console.firebase.google.com/)
 
 ---
 
