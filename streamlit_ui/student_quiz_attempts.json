@@ -1,0 +1,354 @@
+[
+  {
+    "name": "Jashwanth Kandula",
+    "timestamp": "2025-04-25 18:59:54",
+    "score": 1,
+    "total": 10,
+    "answers": {
+      "q1": {
+        "selected": "A. Natural Language Processing ",
+        "correct": "A",
+        "explanation": "Explanation: NLP stands for Natural Language Processing, which is a branch of artificial intelligence (AI) that gives the machines the ability to read, understand, and derive meaning from human languages."
+      },
+      "q2": {
+        "selected": null,
+        "correct": "C",
+        "explanation": "Explanation: Tokenization is typically used to break up text into words, phrases, symbols, or other meaningful elements called tokens."
+      },
+      "q3": {
+        "selected": null,
+        "correct": "D",
+        "explanation": "Explanation: All of the mentioned concepts play a significant role in processing language in NLP. Tokenization separates texts into words, stop words are frequently used words that are filtered out, and stemming reduces a word to its root form."
+      },
+      "q4": {
+        "selected": null,
+        "correct": "C",
+        "explanation": "Explanation: Lemmatization is reducing words to their base or root form but unlike stemming, it understands the context of the word."
+      },
+      "q5": {
+        "selected": null,
+        "correct": "C",
+        "explanation": "Explanation: Corpus is a collection of written texts or an ample body of words on a given topic."
+      },
+      "q6": {
+        "selected": null,
+        "correct": "A",
+        "explanation": "Explanation: Bag of Words is an algorithm that counts how many times a word appears in a document (or corpus). Those word frequencies are then used to create a known representation for predicting the class of the document."
+      },
+      "q7": {
+        "selected": null,
+        "correct": "A",
+        "explanation": "Explanation: Named Entity Recognition is a process where an algorithm takes a string of text (sentence or paragraph) as input and identifies relevant nouns (people, places, and organizations) that are mentioned in that string."
+      },
+      "q8": {
+        "selected": null,
+        "correct": "A",
+        "explanation": "Explanation: WordNet is a large lexical database of English language, which was created by Princeton University. It is part of the NLTK corpus."
+      },
+      "q9": {
+        "selected": null,
+        "correct": "A",
+        "explanation": "Explanation: Word embedding is a way to perform mapping using a neural network. It represents words in a coordinate system where related words, based on a corpus of relationships, are placed closer together."
+      },
+      "q10": {
+        "selected": null,
+        "correct": "A",
+        "explanation": "Explanation: Text classification, in the context of Natural Language Processing, is the process of classifying text strings or documents into different categories, depending upon the contents of the strings."
+      }
+    }
+  },
+  {
+    "name": "Jashwanth Kandula",
+    "timestamp": "2025-04-25 19:02:53",
+    "score": 0,
+    "total": 10,
+    "answers": {
+      "q1": {
+        "selected": "C. To check for syntax errors. ",
+        "correct": "A",
+        "explanation": "Explanation: The main purpose of Python's garbage collector is to free up unused memory space during program execution. Its role is critical in managing memory in your programs automatically."
+      },
+      "q2": {
+        "selected": "B. A memory management technique.",
+        "correct": "C",
+        "explanation": "Explanation: GIL stands for Global Interpreter Lock. It is a mechanism that prevents multiple native threads from executing Python bytecodes at once in order to avoid issues with thread safety."
+      },
+      "q3": {
+        "selected": null,
+        "correct": "B",
+        "explanation": "Explanation: Dictionaries in Python are not sequence types, they are mapping types. They're unordered data collections, unlike lists, strings, and tuples."
+      },
+      "q4": {
+        "selected": null,
+        "correct": "C",
+        "explanation": "Explanation: The pass statement in Python is a placeholder statement which does nothing. It is used when a statement is required syntactically but no action is needed."
+      },
+      "q5": {
+        "selected": null,
+        "correct": "C",
+        "explanation": "Explanation: The key difference between lists and tuples in Python is that lists are mutable, meaning they can be changed, while tuples are immutable, meaning they can't be changed once created."
+      },
+      "q6": {
+        "selected": null,
+        "correct": "B",
+        "explanation": "Explanation: The break statement in Python is used to break out of the nearest enclosing loop, prematurely ending it. After the break statement, the program resumes at the next statement after the loop."
+      },
+      "q7": {
+        "selected": null,
+        "correct": "B",
+        "explanation": "Explanation: The range() function in Python generates a sequence of numbers within a given range. It's commonly used in loops."
+      },
+      "q8": {
+        "selected": null,
+        "correct": "A",
+        "explanation": "Explanation: In Python, decorators are a design pattern that allow the programmer to modify the behavior of a function or class. They provide a flexible way to modify the functionality without changing the source code."
+      },
+      "q9": {
+        "selected": null,
+        "correct": "A",
+        "explanation": "Explanation: The 'self' keyword in Python is used to represent the instance of the class. It binds the attributes with the given arguments."
+      },
+      "q10": {
+        "selected": null,
+        "correct": "C",
+        "explanation": "Explanation: Duck Typing in Python is a programming concept where the type or the class of an object isn't as important as the methods and properties that the object possesses. It's summed up by the phrase: If it looks like a duck, quacks like a duck, it's a duck."
+      }
+    }
+  },
+  {
+    "name": "Jashwanth Kandula",
+    "timestamp": "2025-04-25 19:21:32",
+    "score": 2,
+    "total": 10,
+    "topics": "Neural Networks",
+    "answers": {
+      "q1": {
+        "selected": "D. To introduce non-linearity into the output of a neuron",
+        "correct": "D",
+        "explanation": "Explanation: Activation functions are used to introduce non-linearity into the network's output. A neural network without an activation function becomes a linear regression model, which is too simple to resolve complex problems."
+      },
+      "q2": {
+        "selected": "D. Parallel Neural Network",
+        "correct": "D",
+        "explanation": "Explanation: The Parallel Neural Network is not a recognized type of Neural Network. Convolutional, Recurrent and Sequential are all established types of Neural Networks."
+      },
+      "q3": {
+        "selected": null,
+        "correct": "C",
+        "explanation": "Explanation: A Sigmoid function is a mathematical function having a \"S\" shaped curve (sigmoid curve). In neural networks, it provides an output between 0 and 1."
+      },
+      "q4": {
+        "selected": null,
+        "correct": "C",
+        "explanation": "Explanation: Backpropagation is a method used to calculate the gradient of the loss function in respect to weights. It is essential in training the neural network."
+      },
+      "q5": {
+        "selected": null,
+        "correct": "D",
+        "explanation": "Explanation: In the context of neural networks, the output layer is often referred to as the Decision Layer. This is because it makes the final decision based on the information learned and processed by the network."
+      },
+      "q6": {
+        "selected": null,
+        "correct": "D",
+        "explanation": "Explanation: Stochastic Gradient Descent (SGD) is an optimization technique used in neural networks to minimize the objective function by iteratively moving in the direction of steepest descent."
+      },
+      "q7": {
+        "selected": null,
+        "correct": "B",
+        "explanation": "Explanation: A loss function in a neural network calculates the deviation of the model's prediction from the actual data value. It gives a measure of how well the model is performing its task."
+      },
+      "q8": {
+        "selected": null,
+        "correct": "A",
+        "explanation": "Explanation: In a fully connected layer in a neural network, every neuron in the current layer is connected to every neuron in the following layer."
+      },
+      "q9": {
+        "selected": null,
+        "correct": "C",
+        "explanation": "Explanation: Overfitting is a concept where a trained model performs very well on the training data but performs poorly on unseen or test data. It has essentially memorized the training data and fails to generalize well to new, unseen data."
+      },
+      "q10": {
+        "selected": null,
+        "correct": "B",
+        "explanation": "Explanation: The ReLU function is commonly used in the hidden layers of a Neural network as it helps to cope with the vanishing gradient problem, which is a difficulty encountered when training deep learning models."
+      }
+    }
+  },
+  {
+    "name": "Jashwanth Kandula",
+    "timestamp": "2025-04-25 19:37:54",
+    "score": 3,
+    "total": 10,
+    "topics": "ML",
+    "answers": {
+      "q1": {
+        "selected": "D. K-Means Clustering",
+        "correct": "D",
+        "explanation": "Explanation: K-Means Clustering is an unsupervised learning algorithm that is used to split a dataset into 'K' number of clusters."
+      },
+      "q2": {
+        "selected": "D. Reducing the amount of training data",
+        "correct": "C",
+        "explanation": "Explanation: 'Dimensionality Reduction' refers to reducing the number of random variables under consideration, by obtaining a set of principal variables."
+      },
+      "q3": {
+        "selected": "C. It calculates aggregate error to determine the final output",
+        "correct": "D",
+        "explanation": "Explanation: The Random Forest algorithm works on the principle of ensemble learning. It builds multiple decision trees and merges them together to achieve more stable and accurate prediction."
+      },
+      "q4": {
+        "selected": "D. Regularization",
+        "correct": "D",
+        "explanation": "Explanation: Regularization is the technique used to prevent overfitting in a machine learning model by adding a penalty term to the loss function."
+      },
+      "q5": {
+        "selected": "C. Recommender Systems",
+        "correct": "D",
+        "explanation": "Explanation: Image Recognition is an application of supervised learning. Supervised Learning involves training the model on a labelled dataset."
+      },
+      "q6": {
+        "selected": "B. Bias",
+        "correct": "C",
+        "explanation": "Explanation: Error is the term used to describe the difference between the predicted value and the observed actual value."
+      },
+      "q7": {
+        "selected": "C. It's a form of data normalization technique",
+        "correct": "B",
+        "explanation": "Explanation: 'One-Hot Encoding' is a process of converting categorical data into a format that could be provided to Machine Learning algorithms to improve predictions."
+      },
+      "q8": {
+        "selected": "C. Decreasing the computing power needed",
+        "correct": "B",
+        "explanation": "Explanation: Cross validation is a powerful preventative measure against overfitting. The dataset is divided into 'k' groups or folds where each fold is used as a testing set at some point."
+      },
+      "q9": {
+        "selected": "D. Support Vector Machine",
+        "correct": "D",
+        "explanation": "Explanation: SVM stands for Support Vector Machine. It is a supervised machine learning algorithm used for classification or regression problems."
+      },
+      "q10": {
+        "selected": "D. Reinforcement Learning",
+        "correct": "C",
+        "explanation": "Explanation: \"Unsweetened Learning\" is not a type of machine learning. The three types are Supervised, Unsupervised, and Reinforcement Learning."
+      }
+    }
+  },
+  {
+    "name": "Jashwanth Kandula",
+    "timestamp": "2025-04-25 19:40:13",
+    "score": 0,
+    "total": 10,
+    "topics": "AI",
+    "answers": {
+      "q1": {
+        "selected": "C. Algorithms can learn and adapt to new information without human interaction.",
+        "correct": "B",
+        "explanation": "Explanation: Supervised learning is a type of learning where we train the algorithm using labeled data, that is data including both input and desired output."
+      },
+      "q2": {
+        "selected": "B. Underfitting",
+        "correct": "A",
+        "explanation": "Explanation: Overfitting is a modeling error which occurs when a function is too closely aligned to a limited set of data points. Hence, it performs poorly with new data."
+      },
+      "q3": {
+        "selected": null,
+        "correct": "D",
+        "explanation": "Explanation: 'Super-Learning' is not a concept in machine learning theory. The other options are well-known types of machine learning."
+      },
+      "q4": {
+        "selected": null,
+        "correct": "C",
+        "explanation": "Explanation: The performance of a machine learning model is typically evaluated on its accuracy on testing data, that is unseen or new data."
+      },
+      "q5": {
+        "selected": null,
+        "correct": "B",
+        "explanation": "Explanation: In the domain of AI, artificial neurons are created constructs that mimic the properties of biological neurons."
+      },
+      "q6": {
+        "selected": null,
+        "correct": "C",
+        "explanation": "Explanation: Reinforcement Learning learns by interacting with its environment to perform certain tasks, maximizing the reward."
+      },
+      "q7": {
+        "selected": null,
+        "correct": "A",
+        "explanation": "Explanation: Cross-Validation is a technique in machine learning and AI for assessing how the results of a statistical analysis will generalize to an independent data set."
+      },
+      "q8": {
+        "selected": null,
+        "correct": "A",
+        "explanation": "Explanation: Breadth-first search is a simple strategy in which a root node is expanded first, then all the successors of the root node are expanded next, and then their successors, and so on."
+      },
+      "q9": {
+        "selected": null,
+        "correct": "B",
+        "explanation": "Explanation: Supervised learning consists of a target/outcome variable to be predicted from a given set of predictors (independent variables)."
+      },
+      "q10": {
+        "selected": null,
+        "correct": "A",
+        "explanation": "Explanation: Backpropagation is most commonly used in AI for adjusting the weights of a neural network based on the error rate obtained in the previous epoch (iteration)."
+      }
+    }
+  },
+  {
+    "name": "Jashwanth Kandula",
+    "timestamp": "2025-04-25 21:03:14",
+    "score": 2,
+    "total": 10,
+    "topics": "cnn",
+    "answers": {
+      "q1": {
+        "selected": "C. Convolutional Neural Network",
+        "correct": "C",
+        "explanation": "Explanation: CNN stands for Convolutional Neural Network. It's a type of artificial neural network designed for image recognition and processing."
+      },
+      "q2": {
+        "selected": "B. CNN is built expressly for image recognition, unlike traditional neural networks.",
+        "correct": "B",
+        "explanation": "Explanation: CNNs have their \"neurons\" arranged in three dimensions: width, height, and depth, while traditional neural networks have neurons arranged in two dimensions. This three-dimensional arrangement allows CNNs to be built explicitly for image recognition and processing."
+      },
+      "q3": {
+        "selected": null,
+        "correct": "C",
+        "explanation": "Explanation: The convolution layer of a CNN applies a series of different image filters, also known as convolution kernels, to the input data to help recognize patterns such as edges, corners, and textures."
+      },
+      "q4": {
+        "selected": null,
+        "correct": "B",
+        "explanation": "Explanation: The most significant advantage of Convolutional Neural networks over fully connected networks is that they maintain the spatial relationship between pixels by learning image features using small squares of input data."
+      },
+      "q5": {
+        "selected": null,
+        "correct": "A",
+        "explanation": "Explanation: The primary purpose of a pooling layer is reduction of the spatial size of the representation to decrease the computational power required."
+      },
+      "q6": {
+        "selected": null,
+        "correct": "B",
+        "explanation": "Explanation: CNN uses filters (or kernels) to recognize patterns within an image. Each filter is able to detect a specific type of feature or pattern in the input."
+      },
+      "q7": {
+        "selected": null,
+        "correct": "B",
+        "explanation": "Explanation: The 'ReLU' function in a CNN provides the network with the ability to solve nonlinear problems. It does this by \"activating\" or \"deactivating\" neurons in the network based on its input."
+      },
+      "q8": {
+        "selected": null,
+        "correct": "C",
+        "explanation": "Explanation: 'Dropout' in a CNN is a regularization technique used to prevent overfitting in neural networks by dropping out units (both hidden and visible) during training."
+      },
+      "q9": {
+        "selected": null,
+        "correct": "A",
+        "explanation": "Explanation: The Softmax layer in a CNN is generally used in the final layer of a network, it's responsible for outputting a probability distribution over the classes, categorizing the output."
+      },
+      "q10": {
+        "selected": null,
+        "correct": "C",
+        "explanation": "Explanation: CNNs are better suited for image recognition tasks because they're capable of maintaining the spatial relationship between pixels by learning image features using small squares of input data, therefore effectively managing 3D data (Height, Width, Channels)."
+      }
+    }
+  }
+]
