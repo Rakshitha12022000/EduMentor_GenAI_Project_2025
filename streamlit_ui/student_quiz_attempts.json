@@ -1,0 +1,120 @@
+[
+  {
+    "name": "Jashwanth Kandula",
+    "timestamp": "2025-04-26 18:01:10",
+    "score": 7,
+    "total": 10,
+    "topics": "python",
+    "answers": {
+      "q1": {
+        "selected": "B. Readability",
+        "correct": "B",
+        "explanation": "Explanation: The main feature of Python is its readability as it uses English keywords more than punctuation signs compared to other languages."
+      },
+      "q2": {
+        "selected": "D. Python Extended Programming",
+        "correct": "C",
+        "explanation": "Explanation: PEP stands for Python Enhancement Proposals. They are suggestions for improvements to the language, made by experienced Python developers."
+      },
+      "q3": {
+        "selected": "D. List",
+        "correct": "D",
+        "explanation": "Explanation: Among the options, only the List is mutable, which means we can change its content after it's been created."
+      },
+      "q4": {
+        "selected": "D. Overriding",
+        "correct": "D",
+        "explanation": "Explanation: Overriding is the mechanism that allows us to change the logic of a method in a subclass that is already defined in its superclass."
+      },
+      "q5": {
+        "selected": "C. def",
+        "correct": "C",
+        "explanation": "Explanation: The keyword 'def' is used to define the function in Python."
+      },
+      "q6": {
+        "selected": "C. 123_python",
+        "correct": "C",
+        "explanation": "Explanation: In Python, variable names cannot start with a number."
+      },
+      "q7": {
+        "selected": "A. It is a method to initialize the variables of a class.",
+        "correct": "A",
+        "explanation": "Explanation: `__init__` is a reserved method in Python. It is called when an object is created from a class and it allows the class to initialize the attributes of a class."
+      },
+      "q8": {
+        "selected": "C. It moves the control to the beginning of the loop.",
+        "correct": "B",
+        "explanation": "Explanation: The `continue` statement terminates the current iteration and proceeds to the next iteration of the loop."
+      },
+      "q9": {
+        "selected": "C. Class",
+        "correct": "C",
+        "explanation": "Explanation: Class is not a data type in Python, it's a blueprint for creating objects in Python."
+      },
+      "q10": {
+        "selected": "B. When an exception occurs.",
+        "correct": "C",
+        "explanation": "Explanation: In Python, the else clause in `try`-`except`-`else` is executed when no exception is raised in the `try` block."
+      }
+    }
+  },
+  {
+    "name": "Jashwanth Kandula",
+    "timestamp": "2025-04-26 18:04:57",
+    "score": 6,
+    "total": 10,
+    "topics": "java",
+    "answers": {
+      "q1": {
+        "selected": "D. Object-oriented Programming Language",
+        "correct": "D",
+        "explanation": "Explanation: Java is mostly known for its object-oriented programming."
+      },
+      "q2": {
+        "selected": "A. Java Runtime Environment",
+        "correct": "A",
+        "explanation": "Explanation: JRE stands for Java Runtime Environment, it provides the libraries, the Java Virtual Machine (JVM), and other components to run applets and applications written in the Java programming language."
+      },
+      "q3": {
+        "selected": "C. By using encapsulation",
+        "correct": "C",
+        "explanation": "Explanation: Encapsulation is used in object-oriented programming languages like Java and involves combining fields and methods within a class to hide data and restrict access to it."
+      },
+      "q4": {
+        "selected": "C. -- ",
+        "correct": "C",
+        "explanation": "Explanation: -- is not recognized as a comment in Java. Only //, /*, and /** are valid."
+      },
+      "q5": {
+        "selected": "D. Qt",
+        "correct": "B",
+        "explanation": "Explanation: Java uses Abstract Window Toolkit (AWT) for GUI."
+      },
+      "q6": {
+        "selected": "C. super",
+        "correct": "D",
+        "explanation": "Explanation: In Java, java.lang.Object is the root of the class hierarchy."
+      },
+      "q7": {
+        "selected": "C. To create a new instance of a class",
+        "correct": "C",
+        "explanation": "Explanation: The `new` keyword is primarily used to create a new instance of a class."
+      },
+      "q8": {
+        "selected": "C. null",
+        "correct": "B",
+        "explanation": "Explanation: The default value of a Boolean (class) or boolean (primitive) in Java is 'false'."
+      },
+      "q9": {
+        "selected": "D. Multi-CPU-tasking",
+        "correct": "A",
+        "explanation": "Explanation: This is known as Multithreading. The multiple CPUs perform a single task making the task execution faster."
+      },
+      "q10": {
+        "selected": "B. The process of removing unused variables to free up memory",
+        "correct": "B",
+        "explanation": "Explanation: Garbage Collection in Java is an automatic process which aims to reclaim the memory which is no longer in use by the program i.e., the objects that are not being used or referenced are automatically deleted to free up memory."
+      }
+    }
+  }
+]
