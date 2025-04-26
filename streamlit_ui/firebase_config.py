@@ -1,6 +1,6 @@
 # firebase_config.py
 firebaseConfig = {
-    "apiKey": "AIzaSyBa8YCAqUuiqj-682T2q6NnGnxTt4gdGu4",
+    "apiKey": os.getenv("FIREBASE_API_KEY"),
     "authDomain": "gen-ai-9ea31.firebaseapp.com",
     "projectId": "gen-ai-9ea31",
     "storageBucket": "gen-ai-9ea31.firebasestorage.app",
