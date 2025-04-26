@@ -110,6 +110,11 @@ streamlit run streamlit_ui/main.py (In another terminal)
 
 ---
 
+## Topic Explorer
+![topics](https://github.com/user-attachments/assets/9915fee9-2f72-4916-b3be-fcdf1781a858)
+
+---
+
 ## Future Improvements
 
 - Integrate spaced repetition for quiz questions.
