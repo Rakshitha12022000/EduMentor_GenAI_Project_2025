@@ -91,7 +91,7 @@ streamlit run streamlit_ui/main.py (In another terminal)
 ## Demo Screenshots
 
 | Chat Assistant | Adaptive Quiz | Learning Path |
-|:---:|:---:|:---:|
+|:---:|:---:|:---:| :---:|
 | ![chat](https://github.com/user-attachments/assets/c32b2930-e184-4505-aefb-aca180f3f8b3) | ![quiz](https://github.com/user-attachments/assets/b8f58d3f-4703-4e77-8240-a210e25a2d41)| ![path](https://github.com/user-attachments/assets/9c4eafc7-65f6-4065-b888-3b5de7714648) | ![knowledge graph](https://github.com/user-attachments/assets/d3778350-6d5f-463e-8b28-dde80f787ee2) |
 
 ---
