@@ -129,5 +129,21 @@ streamlit run streamlit_ui/main.py (In another terminal)
 
 ---
 
+**Contributors:**
+
+- Avantika Balaji
+
+- Jashwanth Kandula
+
+- Mohit Varma Sagi
+
+- Palak Kakani
+ 
+- Rakshitha Narasimhaiah
+
+- Shreya Vyas
+
+---
+
 **EduMentor — Empowering Personalized Learning with AI.** 📚🔍
 
