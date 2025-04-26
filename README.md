@@ -56,8 +56,9 @@ Create a `.env` file and add:
 OPENAI_API_KEY=your_openai_api_key
 SERPER_API_KEY=your_serper_api_key
 ```
+5. **Create a `serviceAccountKey.json` file and add your firebase folder**
 
-5. **Run the Application**
+6. **Run the Application**
 ```bash
 python run.py
 streamlit run streamlit_ui/main.py (In another terminal)
