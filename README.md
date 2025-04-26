@@ -60,7 +60,7 @@ FIREBASE_API_KEY=your_google_api_key
 
 5. **Create a `serviceAccountKey.json` file**
 
-Create the key at ![](https://console.firebase.google.com/).
+Create the key at ![link](https://console.firebase.google.com/).
 After creating the key, rename it to serviceAccountKey add the json file to a new firebase folder in the streamlit_ui folder.
 
 6. **Note for Running Locally (Windows/Mac users)**
