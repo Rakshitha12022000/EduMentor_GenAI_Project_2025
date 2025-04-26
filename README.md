@@ -62,7 +62,7 @@ FIREBASE_API_KEY=your_google_api_key
    
 After creating the key, add the json file to the firebase folder and replace the serviceAccountKey.json.gpg file with your json file.
 
-6. ** 🔧 Note for Running Locally (Windows/Mac users) **
+6. **🔧 Note for Running Locally (Windows/Mac users)**
 
 When making API requests to the backend in Mac, replace `localhost` with `127.0.0.1` in the URL inside `main.py`:
 
