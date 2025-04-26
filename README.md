@@ -55,6 +55,7 @@ Create a `.env` file and add:
 ```bash
 OPENAI_API_KEY=your_openai_api_key
 SERPER_API_KEY=your_serper_api_key
+FIREBASE_API_KEY=your_google_api_key
 ```
 
 5. **Create a `serviceAccountKey.json` file**
