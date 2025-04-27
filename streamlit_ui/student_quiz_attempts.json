@@ -1,0 +1,313 @@
+[
+  {
+    "name": "Jashwanth Kandula",
+    "timestamp": "2025-04-26 11:14:37",
+    "score": 0,
+    "total": 10,
+    "topics": "Artificial Intelligence",
+    "answers": {
+      "q1": {
+        "selected": null,
+        "correct": "C",
+        "explanation": "Explanation: The fundamental concept of AI is to design and develop machines that can mimic human intelligence."
+      },
+      "q2": {
+        "selected": null,
+        "correct": "B",
+        "explanation": "Explanation: Machine Learning is defined by two types of learning which are Supervised and Unsupervised learning."
+      },
+      "q3": {
+        "selected": null,
+        "correct": "D",
+        "explanation": "Explanation: The initial stage of the AI model is to collect and prepare the data for further analysis."
+      },
+      "q4": {
+        "selected": null,
+        "correct": "D",
+        "explanation": "Explanation: Data science is a blend of tools, algorithms, and machine learning principles aiming to reveal hidden patterns from the raw data."
+      },
+      "q5": {
+        "selected": null,
+        "correct": "D",
+        "explanation": "Explanation: Heuristic refers to a practical approach not guaranteed to be perfect or optimal, but sufficient for reaching immediate goals or solving immediate problems."
+      },
+      "q6": {
+        "selected": null,
+        "correct": "B",
+        "explanation": "Explanation: Training data is the data which is used to train the machine learning model."
+      },
+      "q7": {
+        "selected": null,
+        "correct": "C",
+        "explanation": "Explanation: Backpropagation is a supervised learning technique used for training Neural Networks."
+      },
+      "q8": {
+        "selected": null,
+        "correct": "A",
+        "explanation": "Explanation: Genetic algorithms work on the principle of survival of the fittest. They are used for optimization and search problems."
+      },
+      "q9": {
+        "selected": null,
+        "correct": "C",
+        "explanation": "Explanation: Overfitting is a concept in machine learning where the model performs better on the training data and poorly on unseen data."
+      },
+      "q10": {
+        "selected": null,
+        "correct": "A",
+        "explanation": "Explanation: Natural Language Processing (NLP) is a branch of AI that deals with the interaction between computers and humans in natural language."
+      }
+    }
+  },
+  {
+    "name": "Avantika Balaji",
+    "timestamp": "2025-04-26 15:53:31",
+    "score": 0,
+    "total": 0,
+    "topics": "CNN",
+    "answers": {}
+  },
+  {
+    "name": "Unknown",
+    "timestamp": "2025-04-26 15:59:41",
+    "score": 0,
+    "total": 10,
+    "topics": "cnn",
+    "answers": {
+      "q1": {
+        "selected": null,
+        "correct": "B",
+        "explanation": "Explanation: CNN stands for Convolutional Neural Network in machine learning, which is mainly used for image classification and processing."
+      },
+      "q2": {
+        "selected": null,
+        "correct": "C",
+        "explanation": "Explanation: CNN is unique because it has convolutional layers that can handle spatial data better than other types of Neural Networks."
+      },
+      "q3": {
+        "selected": null,
+        "correct": "C",
+        "explanation": "Explanation: Filters in a CNN are used to extract features from the input data during the convolutional operation, such as detecting edges, corners and other characteristics."
+      },
+      "q4": {
+        "selected": null,
+        "correct": "B",
+        "explanation": "Explanation: The pooling layer in a CNN reduces the spatial dimensions (Width x Height) of the Input Volume which helps in reducing overfitting."
+      },
+      "q5": {
+        "selected": null,
+        "correct": "C",
+        "explanation": "Explanation: ReLU (Rectified Linear Unit) function is the most commonly used activation function in CNN because it helps in reducing the problem of vanishing gradients."
+      },
+      "q6": {
+        "selected": null,
+        "correct": "C",
+        "explanation": "Explanation: A circular layer does not exist in a CNN. The other three types, Dropout, Flatten, and Dense, are commonly used layer types in a CNN."
+      },
+      "q7": {
+        "selected": null,
+        "correct": "D",
+        "explanation": "Explanation: While CNNs are exceptionally good when working with images, their use is not strictly limited to this. Any multi-dimensional data can be processed using CNNs, making them a good choice for video inputs too."
+      },
+      "q8": {
+        "selected": null,
+        "correct": "C",
+        "explanation": "Explanation: Dropout is a regularization technique used in CNNs to prevent overfitting during model training. It does so by stochastically \"dropping out\" some layer features during training."
+      },
+      "q9": {
+        "selected": null,
+        "correct": "D",
+        "explanation": "Explanation: 'Stride' in terms of convolution operation in a CNN is the number of pixels by which the filter matrix slides over the input matrix."
+      },
+      "q10": {
+        "selected": null,
+        "correct": "D",
+        "explanation": "Explanation: Padding in CNN is an operation to add zeros around the input volume to control the spatial size of the output volumes. It helps to preserve the border information that the convolution operation can miss."
+      }
+    }
+  },
+  {
+    "name": "Black",
+    "timestamp": "2025-04-26 18:41:11",
+    "score": 0,
+    "total": 0,
+    "topics": "Unknown Topics",
+    "answers": {}
+  },
+  {
+    "name": "Black",
+    "timestamp": "2025-04-26 18:47:22",
+    "score": 0,
+    "total": 10,
+    "topics": "Unknown Topics",
+    "answers": {
+      "q1": {
+        "selected": null,
+        "correct": "A",
+        "explanation": "Explanation: \"const\" is the keyword used to declare a constant in C++."
+      },
+      "q2": {
+        "selected": null,
+        "correct": "B",
+        "explanation": "Explanation:  The \"virtual\" keyword is used to allow a function to be overridden in a derived class in C++."
+      },
+      "q3": {
+        "selected": null,
+        "correct": "A",
+        "explanation": "Explanation: The \"::\" operator also known as scope resolution operator is used to resolve the scope in C++."
+      },
+      "q4": {
+        "selected": null,
+        "correct": "A",
+        "explanation": "Explanation: STL stands for Standard Template Library in C++."
+      },
+      "q5": {
+        "selected": null,
+        "correct": "C",
+        "explanation": "Explanation: The primary purpose of a constructor in C++ is to initialize an instance of a class."
+      },
+      "q6": {
+        "selected": null,
+        "correct": "D",
+        "explanation": "Explanation: C++ supports five types of inheritance: single, multiple, hierarchical, multilevel, and hybrid inheritance."
+      },
+      "q7": {
+        "selected": null,
+        "correct": "B",
+        "explanation": "Explanation: \"#include <library>\" is the standard way to include a library in C++."
+      },
+      "q8": {
+        "selected": null,
+        "correct": "A",
+        "explanation": "Explanation: \"string s = \"Hello\";\" is the correct way to declare a string in C++."
+      },
+      "q9": {
+        "selected": null,
+        "correct": "C",
+        "explanation": "Explanation: The 'this' pointer in C++ points to the object that the member function is operating on."
+      },
+      "q10": {
+        "selected": null,
+        "correct": "D",
+        "explanation": "Explanation: The size of the int datatype varies depending upon the platform, but it is usually 4 bytes on a typical 32 or 64 bit machine."
+      }
+    }
+  },
+  {
+    "name": "Palak Kakani",
+    "timestamp": "2025-04-26 19:31:17",
+    "score": 1,
+    "total": 10,
+    "topics": "Machine Learning",
+    "answers": {
+      "q1": {
+        "selected": "C. Using labeled data to adjust the model's parameters",
+        "correct": "C",
+        "explanation": "Explanation: Training a machine learning model involves using labeled data to adjust the model's parameters so that it can predict outcomes more accurately."
+      },
+      "q2": {
+        "selected": "D. Errors due to over-fitting of the data",
+        "correct": "A",
+        "explanation": "Explanation: In machine learning, bias refers to the amount of prejudice present in the data and algorithms which leads to discriminatory outcomes or predictions."
+      },
+      "q3": {
+        "selected": "A. A process for converting all data to binary values",
+        "correct": "C",
+        "explanation": "Explanation: One-hot encoding is a process used in machine learning to turn categorical variables into a form that could be provided to ML algorithms to improve predictions."
+      },
+      "q4": {
+        "selected": "C. The method is probabilistic based on the Fermat's principle with an assumption of independence among predictors",
+        "correct": "A",
+        "explanation": "Explanation: The Gaussian Naive Bayes Classifier method is based on the Bayes theorem with an assumption of independence among predictors."
+      },
+      "q5": {
+        "selected": "B. A wide array of machine learning algorithms",
+        "correct": "A",
+        "explanation": "Explanation: Neural Network in machine learning refers to a model that is constructed in a way that resembles the human brain functioning."
+      },
+      "q6": {
+        "selected": "B. It adjusts the weights of the network connections ",
+        "correct": "A",
+        "explanation": "Explanation: An Activation Function in a neural network is used to determine the output of a neural network. Its main purpose is to convert a input signal of a node in a A-NN to an output signal."
+      },
+      "q7": {
+        "selected": "A. Audio Processing",
+        "correct": "C",
+        "explanation": "Explanation: The primary application of Convolutional Neural Networks (CNNs) is in image and video processing."
+      },
+      "q8": {
+        "selected": "A. Gini Index",
+        "correct": "C",
+        "explanation": "Explanation: Hyperparameters define the structure (such as how many hidden layers to have in a neural network) and measures of rule (like the learning rate to use when training) of ML models."
+      },
+      "q9": {
+        "selected": "B. Clustering",
+        "correct": "C",
+        "explanation": "Explanation: Support Vector Machines are primarily used for solving classification problems."
+      },
+      "q10": {
+        "selected": "A. Unsupervised learning",
+        "correct": "D",
+        "explanation": "Explanation: A Random Forest algorithm primarily belongs to the supervised learning category as it makes predictions based on labeled input data."
+      }
+    }
+  },
+  {
+    "name": "Jashwanth Kandula",
+    "timestamp": "2025-04-26 20:48:41",
+    "score": 5,
+    "total": 10,
+    "topics": "atlanta places of interest",
+    "answers": {
+      "q1": {
+        "selected": "B. The Fox Theatre",
+        "correct": "B",
+        "explanation": "Explanation: The Fox Theatre is a primary venue for Atlanta's performing arts, regularly hosting Broadway shows, concerts and other performances."
+      },
+      "q2": {
+        "selected": "D. Georgia Aquarium",
+        "correct": "D",
+        "explanation": "Explanation: The Georgia Aquarium in Atlanta is the largest aquarium in the western hemisphere."
+      },
+      "q3": {
+        "selected": "A. Atlanta's \"Central Park\"",
+        "correct": "A",
+        "explanation": "Explanation: Piedmont Park is referred to as Atlanta's \"Central Park\" because it is a large urban park in the middle of the city."
+      },
+      "q4": {
+        "selected": "A. It's the birthplace of Martin Luther King Jr.",
+        "correct": "D",
+        "explanation": "Explanation: The Martin Luther King Jr. National Historic Site holds historical significance as Martin Luther King Jr.'s birthplace, his childhood home, and the location of his grave."
+      },
+      "q5": {
+        "selected": "A. The Revolutionary War",
+        "correct": "B",
+        "explanation": "Explanation: The exhibit \"Turning Point\" in the Atlanta History Center focuses on the Civil War."
+      },
+      "q6": {
+        "selected": "A. Location of the 1996 Summer Olympics",
+        "correct": "A",
+        "explanation": "Explanation: Centennial Olympic Park is the location of the 1996 Summer Olympics."
+      },
+      "q7": {
+        "selected": "B. Hiking up to and around the giant granite rock",
+        "correct": "B",
+        "explanation": "Explanation: A popular pastime at Stone Mountain Park is hiking up to and around the giant granite rock."
+      },
+      "q8": {
+        "selected": "A. The Atlanta History Center",
+        "correct": "D",
+        "explanation": "Explanation: Stone Mountain Park features a Native American village, Civil War exhibits and a farmyard."
+      },
+      "q9": {
+        "selected": "B. Being President Jimmy Carter's childhood home",
+        "correct": "A",
+        "explanation": "Explanation: The Michael C. Carlos Museum in Atlanta is best known for its extensive collection of ancient art."
+      },
+      "q10": {
+        "selected": "A. Picasso",
+        "correct": "C",
+        "explanation": "Explanation: The High Museum in Atlanta was designed by Richard Meier and Renzo Piano."
+      }
+    }
+  }
+]
