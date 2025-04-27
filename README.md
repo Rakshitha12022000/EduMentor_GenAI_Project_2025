@@ -64,7 +64,7 @@ Create the key at [link](https://console.firebase.google.com/).
 
 After creating the key, rename it to serviceAccountKey add the json file to a new firebase folder in the streamlit_ui folder. 
 
-Update the credentitals.Certficate with your key filename in the line: "firebase/<your_file_name>.json".
+Update the **credentitals.Certficate** with your key filename in the line: "firebase/<your_file_name>.json".
 
 ```python
 # firestore_db.py 
