@@ -62,7 +62,17 @@ FIREBASE_API_KEY=your_google_api_key
 
 Create the key at [link](https://console.firebase.google.com/).
 
-After creating the key, rename it to serviceAccountKey add the json file to a new firebase folder in the streamlit_ui folder.
+After creating the key, rename it to serviceAccountKey add the json file to a new firebase folder in the streamlit_ui folder. 
+
+Update the credentitals.Certficate with your key filename in the line: "firebase/<your_file_name>.json".
+
+```python
+# firestore_db.py 
+
+if not firebase_admin._apps:
+    cred = credentials.Certificate(os.path.join(os.path.dirname(__file__), "firebase/edumentor-77688-firebase-adminsdk-fbsvc-2d32c0d42b.json"))
+    firebase_admin.initialize_app(cred)
+```
 
 6. **Note for Running Locally (Windows/Mac users)**
 
