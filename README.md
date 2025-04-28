@@ -6,7 +6,13 @@
 
 ## Overview
 
-**EduMentor** is an AI-driven educational assistant designed to personalize learning experiences for students and support educators with adaptive quizzes, learning path generation, and real-time analytics. Built with OpenAI's GPT models, Streamlit, and SerpAPI integration, EduMentor dynamically adapts to user needs, offering tailored quizzes, topic exploration, and intelligent learning guidance.
+**EduMentor** is an AI-powered educational assistant built to transform how students learn and how educators support them. Combining OpenAI's GPT models, Streamlit, and SerpAPI, EduMentor delivers adaptive quizzes, personalized learning paths, and real-time analytics. 
+
+---
+
+## Business Problem
+
+It directly tackles a critical gap in education — *students often don't know where to begin or how to progress*. Instead of leaving learners to random trial-and-error, EduMentor provides clear starting points, personalized guidance, and live progress tracking, driving focused, measurable, and faster growth.
 
 ---
 
@@ -143,6 +149,29 @@ streamlit run streamlit_ui/main.py (In another terminal)
 
 ---
 
+## LLM Utilisation
+
+- Adaptive Quiz Generation:
+    - GPT-4 models were prompted to generate questions at multiple difficulty levels for user-selected topics.
+- Personalized Learning Paths: 
+    - LLMs generated prerequisite topic lists, importance scores, and detailed explanations for each weak topic provided by users.
+    - LLMs helped in suggesting interdependencies across multiple weak topics, not just isolated concept maps.
+- Topic Exploration (RAG Support):
+    - LLMs summarized and contextualized top web search results retrieved via SerpAPI, providing real-time, dynamic topic content.
+- Chat Assistant:
+    - Handled free-form natural language questions related to course material, homework, or general educational guidance.
+
+---
+
+## Challenges Encountered
+
+- LLM output varied slightly even with the same prompts, causing occasional mismatches in quiz difficulty or graph structure.
+- Frequent GPT API calls (especially for quizzes and graph generation) increased latency and API cost.
+- LLM-based results tied closely to user progress needed to persist across Streamlit sessions, which reset easily.
+- Combining live web search + GPT summarization added noticeable delay during topic exploration.
+
+---
+
 ## Future Improvements
 
 - Integrate spaced repetition for quiz questions.
@@ -151,7 +180,6 @@ streamlit run streamlit_ui/main.py (In another terminal)
 - Add multi-language support.
 
 ---
-
 
 ## Acknowledgments
 
