@@ -149,6 +149,12 @@ streamlit run streamlit_ui/main.py (In another terminal)
 
 ---
 
+## Evaluation 
+![results](https://github.com/user-attachments/assets/722fb7ae-8608-4c1f-9ae7-da12533299d2)
+![results](https://github.com/user-attachments/assets/4c0c55ae-3103-4bec-8ffd-c3100721a580)
+
+---
+
 ## LLM Utilisation
 
 - Adaptive Quiz Generation:
